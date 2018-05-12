@@ -1,0 +1,30 @@
+_repo: Antonio-Stradivari_36535
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Petherick, Horace
+    aliases:
+    - Petherick, H. W. (Horace William)
+    - Petherick, Horace William
+    birthdate: 1839
+    deathdate: 1919
+    gutenberg_agent_id: '9400'
+    url: http://www.gutenberg.org/2009/agents/9400
+description: ''
+gutenberg_issued: '2011-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36535'
+  lccn: 04009379
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Stradivari, Antonio, approximately 1644-1737'
+- !lcc 'ML'
+title: Antonio Stradivari
+url: http://www.gutenberg.org/ebooks/36535
